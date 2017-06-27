@@ -1,0 +1,2 @@
+# SpiceGspProject
+SpiceGsp Windows application
